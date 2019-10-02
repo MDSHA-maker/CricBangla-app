@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20dp"
+        android:background="@drawable/btnregister"
+        android:fontFamily="@font/arsenal"
+        android:padding="10dp"
+        android:text="CricBangla is a user-friendly easy-to-use app to fully live the World Cup 2019. All aboard to the CricBangla ship, an amazing app with all your future world-cup questions and queries. Our user friendly app will have the following features that are easy to navigate.\nFeatures:
+\n\n1.	Live Scores of Cricket Matches by clicking the Live Bangla Commentary.
+\n\n2.	Live Match Commentary in Bangla by Experts
+\n\n3.	Summary and description including batting, bowling and fielding of all World Cup 2019 Matches by clicking Match Info
+\n\n4.	Fixtures of ICC World Cup 2019 England and Wales
+\n\n5.	ICC Cricket Teams World Cup Squad of Australia, Bangladesh, England, New Zealand,  Pakistan, India, Sri Lanka, West Indies, South Africa, Afghanistan in the Squad button.
+"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        tools:layout_editor_absoluteX="20dp"
+        tools:layout_editor_absoluteY="20dp" />
+</android.support.constraint.ConstraintLayout>
